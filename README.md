@@ -32,4 +32,4 @@ Rendering the task list
 
 The renderTasks() function is responsible for updating the DOM to display the current state of the task list.
 
-Project URL - [https://github.com/Atul1307/instahyre_assignment](https://roadmap.sh/projects/task-tracker-js)
+Project URL - https://roadmap.sh/projects/task-tracker-js
